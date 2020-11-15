@@ -1,5 +1,8 @@
 # front-end
-
+![alt text](./dataTable.png)
+![alt text](./liveSearch.png)
+![alt text](./DataAnalysis_Visualization_LineChart.png)
+![alt text](./DataAnalysis_Visualization_BarChart.png)
 ## Project setup
 ```
 npm install
