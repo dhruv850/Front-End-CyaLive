@@ -1,7 +1,12 @@
 # front-end
+
+# Data-Table
 ![alt text](./dataTable.png)
+# Live-Search
 ![alt text](./liveSearch.png)
+# Line-Chart
 ![alt text](./DataAnalysis_Visualization_LineChart.png)
+# Bar-Chart
 ![alt text](./DataAnalysis_Visualization_BarChart.png)
 ## Project setup
 ```
